@@ -10,7 +10,7 @@ I'm a first-year Master's student in the [Interdisciplinary Intelligent Graphics
 
 <div style="display: flex; align-items: center; width: 100%; max-width: 100%;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
-    <img src="/img/filterPrompt.png" alt="description" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/Meaoxixi/FilterPrompt/gh-pages/resources/teaser.png" alt="description" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 2;">
     <p>We propose FilterPrompt, an approach to enhance the model control effect. It can be universally applied to any diffusion model, allowing users to adjust the representation of specific image features in accordance with task requirements, thereby facilitating more precise and controllable generation outcomes.</p>
