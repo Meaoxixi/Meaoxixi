@@ -19,7 +19,7 @@ I'm a first-year Master's student in the [Interdisciplinary Intelligent Graphics
 
 ---
 # Education
-- 🏃Sep. 2023 - Jun. 2026: Studying at [IIGG](https://yang-group.github.io/#/), supervised by [Xi Yang](https://keepthinkingyx.github.io/Xi-Yang/) 
+- 🏃Sep. 2023 - Jun. 2026: Studying at [IIGG](https://yang-group.github.io/#/), supervised by Associate Professor [Xi Yang](https://keepthinkingyx.github.io/Xi-Yang/) 
 - ✍️Sep. 2019 - Jun. 2023: Graduated with a Bachelor's degree from [College of Software](https://csw.jlu.edu.cn/), Jilin University.
 
 
