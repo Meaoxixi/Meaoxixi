@@ -2,7 +2,7 @@
 
 I'm a first-year Master's student in the [Interdisciplinary Intelligent Graphics Group (IIGG)](https://yang-group.github.io/#/) at Jilin University.
 
-I graduated from Jilin University in 2023 with a Bachelor's degree in Software Engineering. My research interests focus on computer vision and image processing. Right now, I'm working on image generation tasks with diffusion models. If you're also interested in this exciting work and looking for any kind of academic collaboration, let's team up and become research buddies! You're welcome to get in touch with me at `qianwang23@mails.jlu.edu.cn` 🍻 .
+I graduated from Jilin University in 2023 with a Bachelor's degree in Software Engineering. My research interests focus on computer vision and image processing. Right now, I'm working on image generation tasks with diffusion models. If you're also interested in this exciting work and looking for any kind of academic collaboration, let's team up and become research buddies! You're welcome to contact me at 📫`qianwang23@mails.jlu.edu.cn` 🍻 .
 
 
 # Research
