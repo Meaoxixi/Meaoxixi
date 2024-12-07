@@ -6,10 +6,9 @@ I graduated from Jilin University in 2023 with a Bachelor's degree in Software E
 
 
 # Research
-- **[2024/04/20] 🔥 FilterPrompt: Guiding Image Transfer in Diffusion Models.**.
+**- [2024/04/20] 🔥 FilterPrompt: A Simple yet Efficient Approach to Guide Image Appearance Transfer in Diffusion Models**
 
 **Xi Wang**, Yichen Peng, Heng Fang, Haoran Xie, Xi Yang, Chuntao	Li
-
 <a href='https://meaoxixi.github.io/FilterPrompt/'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
 <a href='https://arxiv.org/pdf/2404.13263'><img src='https://img.shields.io/badge/Paper-blue'></a> 
 <a href='https://huggingface.co/spaces/Meaowangxi/FilterPrompt-demo'><img src='https://img.shields.io/badge/Demo-orange'></a>
