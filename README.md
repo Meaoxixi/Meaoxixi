@@ -1,6 +1,6 @@
 # Yoo, I'm Xi Wang | 王茜 👋
 
-I'm a first-year Master's student in the [Interdisciplinary Intelligent Graphics Group (IIGG)](https://yang-group.github.io/#/) at Jilin University.
+I'm a Second-year Master's student in the [Interdisciplinary Intelligent Graphics Group (IIGG)](https://yang-group.github.io/#/) at Jilin University.
 
 I graduated from Jilin University in 2023 with a Bachelor's degree in Software Engineering. My research interests focus on computer vision and image processing. Right now, I'm working on image generation tasks with diffusion models. If you're also interested in this exciting work and looking for any kind of academic collaboration, let's team up and become research buddies! You're welcome to contact me at 📫`qianwang23@mails.jlu.edu.cn` 🍻 .
 
@@ -8,7 +8,8 @@ I graduated from Jilin University in 2023 with a Bachelor's degree in Software E
 # Research
 **- [2024/04/20] 🔥 FilterPrompt: A Simple yet Efficient Approach to Guide Image Appearance Transfer in Diffusion Models**
 
-**Xi Wang**, Yichen Peng, Heng Fang, Haoran Xie, Xi Yang, Chuntao	Li
+            **Xi Wang**, Yichen Peng, Heng Fang, Haoran Xie, Xi Yang, Chuntao	Li
+
 <a href='https://meaoxixi.github.io/FilterPrompt/'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
 <a href='https://arxiv.org/pdf/2404.13263'><img src='https://img.shields.io/badge/Paper-blue'></a> 
 <a href='https://huggingface.co/spaces/Meaowangxi/FilterPrompt-demo'><img src='https://img.shields.io/badge/Demo-orange'></a>
