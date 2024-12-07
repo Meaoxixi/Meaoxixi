@@ -6,7 +6,7 @@ I graduated from Jilin University in 2023 with a Bachelor's degree in Software E
 
 
 # Research
-## - [2024/04/20] 
+### [2024/04/20] 
 **🔥 FilterPrompt: A Simple yet Efficient Approach to Guide Image Appearance Transfer in Diffusion Models**
 **Xi Wang**, Yichen Peng, Heng Fang, Haoran Xie, Xi Yang, Chuntao	Li
 
