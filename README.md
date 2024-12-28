@@ -6,6 +6,25 @@ I graduated from Jilin University in 2023 with a Bachelor's degree in Software E
 
 
 # Research
+### [2024/12/16] 
+**🔥🔥🔥 LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model**
+
+**Xi Wang**, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang*, Chuntao Li
+
+<a href='https://meaoxixi.github.io/LineArt/'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
+<a href='https://arxiv.org/pdf/2412.11519'><img src='https://img.shields.io/badge/Paper-blue'></a> 
+
+<div style="display: flex; align-items: center; width: 100%; max-width: 100%;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
+    <img src="https://meaoxixi.github.io/LineArt/static/images/teaser.png" alt="description" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2;">
+    <p>We present **LineArt**, a framework that transfers complex appearance onto detailed design drawings, facilitating design and artistic creation. It generates high-fidelity appearance while preserving structural accuracy by simulating hierarchical visual cognition and integrating human artistic experience to guide the diffusion process. LineArt overcomes the limitations of current methods in terms of difficulty in fine-grained control and style degradation in design drawings. We also present a new design drawing dataset **ProLines** for evaluation. The experiments show that LineArt performs better in accuracy, realism, and material precision compared to SOTAs.</p>
+  </div>
+</div>
+
+
+
 ### [2024/04/20] 
 **🔥🔥🔥 FilterPrompt: A Simple yet Efficient Approach to Guide Image Appearance Transfer in Diffusion Models**
 
