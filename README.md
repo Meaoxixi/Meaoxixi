@@ -2,7 +2,7 @@
 
 I'm a Second-year Master's student in the [Interdisciplinary Intelligent Graphics Group (IIGG)](https://yang-group.github.io/#/) at Jilin University.
 
-I graduated from Jilin University in 2023 with a Bachelor's degree in Software Engineering. My research interests focus on computer vision and image processing. Right now, I'm working on image generation tasks with diffusion models. If you're also interested in this exciting work and looking for any kind of academic collaboration, let's team up and become research buddies! You're welcome to contact me at 📫`qianwang23@mails.jlu.edu.cn` 🍻 .
+I graduated from Jilin University in 2023 with a Bachelor's degree in Software Engineering. My research interests focus on computer vision and image generation. Right now, I'm working on the 3D reconstruction task of images with diffusion models. If you're looking for any kind of academic collaboration, let's team up and become research buddies👯! You're welcome to contact me at 📫`qianwang23@mails.jlu.edu.cn` 🍻 .
 
 
 # Research
@@ -19,7 +19,7 @@ I graduated from Jilin University in 2023 with a Bachelor's degree in Software E
     <img src="https://meaoxixi.github.io/LineArt/static/images/teaser.png" alt="description" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 2;">
-    <p>We present **LineArt**, a framework that transfers complex appearance onto detailed design drawings, facilitating design and artistic creation. It generates high-fidelity appearance while preserving structural accuracy by simulating hierarchical visual cognition and integrating human artistic experience to guide the diffusion process. LineArt overcomes the limitations of current methods in terms of difficulty in fine-grained control and style degradation in design drawings. We also present a new design drawing dataset **ProLines** for evaluation. The experiments show that LineArt performs better in accuracy, realism, and material precision compared to SOTAs.</p>
+    <p>We present LineArt, a framework that transfers complex appearance onto detailed design drawings, facilitating design and artistic creation. It generates high-fidelity appearance while preserving structural accuracy by simulating hierarchical visual cognition and integrating human artistic experience to guide the diffusion process. LineArt overcomes the limitations of current methods in terms of difficulty in fine-grained control and style degradation in design drawings. We also present a new design drawing dataset ProLines for evaluation. The experiments show that LineArt performs better in accuracy, realism, and material precision compared to SOTAs.</p>
   </div>
 </div>
 
